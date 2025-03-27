@@ -1,3 +1,10 @@
+# Install
+
+```
+git clone https://github.com/Mohammad9760/flipbook_tool.git && cd flipbook_tool && pip install -r requirements.txt
+```
+
+
 # Easily Pack Rendered Frames Into A Flipbook
 
 
